@@ -1,4 +1,4 @@
-# reactReact application -Inprogress -End by tomorrow(05-03-17)
+# reactReact application Installation
 	-npm install -g babel
 	-npm init
 	-npm install webpack --save
